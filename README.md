@@ -1,5 +1,5 @@
 ## Private Repository
-https://github.com/malexopoulos/NYT_Corpus --> needs **Professor Michelle Alexopoulos** permission to be viewed.
+https://github.com/malexopoulos/NYT_Corpus -> needs **Professor Michelle Alexopoulos** permission to be viewed.
 
 # NYT Corpus
 
